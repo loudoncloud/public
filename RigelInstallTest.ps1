@@ -1,4 +1,4 @@
-﻿############ utility functions ############################################################
+<#utility functions #>
 
 function Resolve-Url {
 <#
@@ -223,7 +223,7 @@ param(
     }
 }
 
-############### script runtime ############################################################
+<# script runtime #>
 
 
 ### Acquire the SRS deployment kit
